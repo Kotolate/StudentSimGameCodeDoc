@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sceneloader_0',['SceneLoader',['../class_scene_loader.html',1,'']]],
+  ['sceneloader_2ecs_1',['SceneLoader.cs',['../_scene_loader_8cs.html',1,'']]],
+  ['setactive_2',['SetActive',['../class_room.html#ae45861ebec02cd17f84073f42f7ed7ac',1,'Room']]],
+  ['setmovementenabled_3',['SetMovementEnabled',['../class_student_movement.html#ac48c29b3840c1ee83dc28c56fd41aa5a',1,'StudentMovement']]],
+  ['skycolor_4',['SkyColor',['../class_sky_color.html',1,'']]],
+  ['skycolor_5',['skyColor',['../class_sky_color.html#a0140f5a420b99179cb2f77caaf6086cc',1,'SkyColor']]],
+  ['sleep_6',['Sleep',['../class_student_logic.html#a134bcd750372409241411523ec19dacd',1,'StudentLogic.Sleep'],['../_interactable_8cs.html#a25418fa818fbb01cd8c0b2c4b0732cdfa243924bfd56a682be235638b53961e09',1,'Sleep:&#160;Interactable.cs']]],
+  ['slidercol_7',['sliderCol',['../class_student_redactor.html#adb9310afe481389644b772a22e999d20',1,'StudentRedactor']]],
+  ['stat_8',['stat',['../class_food_effect.html#adc74ed67700aff3c61ab81abadd461a6',1,'FoodEffect.stat'],['../class_stat_effect.html#a32f06f2503028787cc3818d1d02570cf',1,'StatEffect.stat']]],
+  ['stateffect_9',['StatEffect',['../class_stat_effect.html',1,'']]],
+  ['stattype_10',['StatType',['../_interactable_8cs.html#a25418fa818fbb01cd8c0b2c4b0732cdf',1,'Interactable.cs']]],
+  ['studentlogic_11',['StudentLogic',['../class_student_logic.html',1,'']]],
+  ['studentlogic_2ecs_12',['StudentLogic.cs',['../_student_logic_8cs.html',1,'']]],
+  ['studentmovement_13',['StudentMovement',['../class_student_movement.html',1,'']]],
+  ['studentmovement_2ecs_14',['StudentMovement.cs',['../_student_movement_8cs.html',1,'']]],
+  ['studentredactor_15',['StudentRedactor',['../class_student_redactor.html',1,'']]],
+  ['studentredactor_2ecs_16',['StudentRedactor.cs',['../_student_redactor_8cs.html',1,'']]]
+];
